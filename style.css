@@ -1,0 +1,14 @@
+div{margin:100px}
+.poster{width:50%;
+margin-left: 25%;
+text-align: center;
+color:white;}
+.image{width:100%;
+    border: 5px solid white
+}
+body{background-color: black;}
+h1{font-family: "Libre Baskerville", serif;}
+#title{font-family: "Inter", serif;
+background-color:burlywood;}
+h2{font-family: "Dosis", serif;
+font-size:medium}
